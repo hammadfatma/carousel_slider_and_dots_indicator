@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# video
+<video src='https://github.com/hammadfatma/carousel_slider_and_dots_indicator/assets/97297539/537afe12-9955-48c9-b6a9-5036e16f9d5e' width=180/>
